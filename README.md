@@ -1,4 +1,4 @@
-# 📊 Python Data Visualization and Graph Export
+# 📊 Python Data Visualization: Exploring and Exporting Graphs with Matplotlib and Seaborn
 
 A hands-on Python notebook demonstrating how to explore numerical datasets, build plots with **Pandas, Matplotlib, and Seaborn**, and export visualizations as PNG images.
 
